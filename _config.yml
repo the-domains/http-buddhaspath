@@ -1,0 +1,28 @@
+name: 'http://BuddhasPath'
+favicon: null
+layout_spectrum: 0.44907645718194544
+typography_spectrum: 0.8930118731223047
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.012351957382634282
+  lightness: 0.8174946620129049
+  saturation: 0.9913379466161132
+  rhythmicContrast: 0.8559863516129553
+purpose: []
