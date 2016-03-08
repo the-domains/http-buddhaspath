@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Survival of the human race can be reduced to three words: peace, people, and planet. Peace comes first. Unless we have peace, we can’t preserve the other tw0.'
-datePublished: '2016-03-08T14:23:38.677Z'
-dateModified: '2016-03-08T14:23:09.634Z'
+datePublished: '2016-03-08T14:30:49.877Z'
+dateModified: '2016-03-08T14:29:57.043Z'
 title: Being Peace
 author: []
+sourcePath: _posts/2016-03-08-being-peace.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-being-peace.md
-published: true
 url: being-peace/index.html
 _type: Article
 
@@ -30,6 +30,8 @@ Religious scriptures advocate _being_ peace. By way of misunderstanding, unwhole
 Humanist philosophies advocate _being_ peace. By way of misunderstanding, unwholesome attachments, and unfounded aversions, not all followers practice their philosophy's principles on _being_ peace.
 
 **Personal behaviors not in keeping with _being_ peace:**
+
+****
 
 * **Hinders the evolution of planetary peace**
 * **Contributes to the social and economic suffering of people everywhere**
