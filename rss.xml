@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[http://BuddhasPath]]></title>
+        <description><![CDATA[http://BuddhasPath]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Mar 2016 14:23:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Being Peace]]></title>
+            <description><![CDATA[<article><h1>Being Peace</h1><p>Survival of the human race can be reduced to three words: peace, people, and planet. Peace comes first. Unless we have peace, we can’t preserve the other tw0.</p></article>]]></description>
+            <link>undefinedbeing-peace/index.html</link>
+            <guid isPermaLink="false">cf6382f0-20fa-4c58-a355-d53bf9da82ff</guid>
+            <pubDate>Tue, 08 Mar 2016 14:23:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
